@@ -1,0 +1,7 @@
+george bush,0
+[bee, go, shrug]
+[bee, shrug, go]
+[go, bee, shrug]
+[go, shrug, bee]
+[shrug, bee, go]
+[shrug, go, bee]

@@ -1,0 +1,11 @@
+eleven plus two,0
+[one, plus, twelve]
+[one, twelve, plus]
+[plus, one, twelve]
+[plus, twelve, one]
+[twelve, one, plus]
+[twelve, plus, one]
+
+bear zone,0
+[zebra, one]
+[one, zebra]
